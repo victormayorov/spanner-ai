@@ -13,7 +13,4 @@
     "table_name": "<Spanner Table Name>",
     "columns_to_export": "<Columns to Export from Spanner Table>"
   },
-  "vertex": {
-    "vector_search_index_id": "<Vertex Vector Search Index ID>"
-  }
 }
